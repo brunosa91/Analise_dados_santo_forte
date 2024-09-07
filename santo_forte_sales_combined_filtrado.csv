@@ -1,0 +1,253 @@
+Product ID,Product Name,Quantity,Total Price,Date,City
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-01-15,São Paulo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-01-16,São Paulo
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-01-23,São Paulo
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-01-20,Guarulhos
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-01-07,São Paulo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-01-06,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-01-28,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-01-27,São Paulo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-01-13,São Bernardo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-01-13,Arujá
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-01-03,São Paulo
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-01-14,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-01-22,
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-01-10,São Bernardo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-01-17,Guarulhos
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-01-19,Guarulhos
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-01-26,São Paulo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-01-04,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-02-12,Santo André
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-02-20,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-02-27,Guarulhos
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-02-27,Arujá
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-02-22,São Paulo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-02-05,São Caetano
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-02-05,Santo André
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-02-07,São Bernardo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-02-05,Guarulhos
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-02-21,São Paulo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-02-16,São Caetano
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-02-03,Santo André
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-02-21,Guarulhos
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-02-20,Guarulhos
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-02-23,Guarulhos
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-02-02,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-02-26,São Caetano
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-02-13,Santo André
+301001,Caneca Santo Forte Portal Mágico,2.0,100.0,2024-02-13,São Bernardo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-02-07,São Paulo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-02-10,Guarulhos
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-02-07,Santo André
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-02-07,São Bernardo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-02-14,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-02-02,Arujá
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-02-15,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-02-28,Guarulhos
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-02-14,Santo André
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-02-02,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-03-06,São Paulo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-03-08,São Caetano
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-03-10,Santo André
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-03-16,São Bernardo
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-03-07,Guarulhos
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-03-28,Arujá
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-03-27,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-03-23,São Caetano
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-03-01,Santo André
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-03-27,Guarulhos
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-03-17,Arujá
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-03-08,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-03-09,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-03-17,Santo André
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-03-28,São Bernardo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-03-24,Guarulhos
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-03-10,Arujá
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-03-28,São Paulo
+301001,Caneca Santo Forte Portal Mágico,2.0,100.0,2024-03-09,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-03-19,Guarulhos
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-03-26,Guarulhos
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-03-11,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-03-13,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-03-03,Santo André
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-03-18,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-03-03,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-03-23,Arujá
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-03-06,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-03-09,Santo André
+301001,Caneca Santo Forte Portal Mágico,3.0,150.0,2024-03-24,Guarulhos
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-03-09,Arujá
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-03-16,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-04-28,São Paulo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-04-26,Santo André
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-04-22,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-04-02,Guarulhos
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-04-09,Arujá
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-04-14,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-04-08,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-04-27,Santo André
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-04-01,São Bernardo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-04-05,Arujá
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-04-06,São Paulo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-04-20,São Caetano
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-04-02,Santo André
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-04-09,São Bernardo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-04-28,Guarulhos
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-04-24,Arujá
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-04-22,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-04-03,São Paulo
+301001,Caneca Santo Forte Portal Mágico,3.0,150.0,2024-04-14,Santo André
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-04-13,Arujá
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-04-27,São Paulo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-04-04,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-04-07,Guarulhos
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-04-11,São Bernardo
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-05-08,Guarulhos
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-05-04,Arujá
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-05-19,São Paulo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-05-12,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-05-10,Santo André
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-05-23,São Bernardo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-05-13,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-05-11,Arujá
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-05-03,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-05-18,São Paulo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-05-18,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-05-16,Guarulhos
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-05-02,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-05-03,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-05-23,São Caetano
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-05-07,Santo André
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-05-05,São Bernardo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-05-04,Guarulhos
+301001,Caneca Santo Forte Portal Mágico,1.0,50.0,2024-05-24,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-05-03,Santo André
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-05-10,São Bernardo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-05-12,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-05-16,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-05-06,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-05-23,São Caetano
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-05-16,Santo André
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-05-05,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-05-05,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-06-03,Arujá
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-06-22,São Paulo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-06-11,São Caetano
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-06-21,Santo André
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-06-08,São Bernardo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-06-05,Guarulhos
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-06-21,Arujá
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-06-03,São Paulo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-06-10,São Caetano
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-06-04,São Bernardo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-06-22,Guarulhos
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-06-12,Arujá
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-06-09,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-06-28,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-06-06,Santo André
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-06-15,São Bernardo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-06-20,Guarulhos
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-06-07,Arujá
+301001,Caneca Santo Forte Portal Mágico,1.0,50.0,2024-06-12,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-06-10,São Bernardo
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-06-26,Guarulhos
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-06-25,Arujá
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-06-28,São Paulo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-06-08,São Caetano
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-06-02,Santo André
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-06-10,São Bernardo
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-06-12,Guarulhos
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-06-23,Arujá
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-06-10,São Paulo
+301001,Caneca Santo Forte Portal Mágico,3.0,150.0,2024-06-20,São Bernardo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-06-25,Guarulhos
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-06-14,Arujá
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-06-14,São Paulo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-06-14,São Caetano
+301001,Caneca Santo Forte Portal Mágico,3.0,150.0,2024-06-13,São Bernardo
+301001,Caneca Santo Forte Portal Mágico,1.0,50.0,2024-06-15,Guarulhos
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-06-06,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-06-01,São Caetano
+301001,Caneca Santo Forte Portal Mágico,1.0,50.0,2024-06-06,Santo André
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-06-28,São Bernardo
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-06-10,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-06-12,Arujá
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-06-17,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-06-11,São Caetano
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-06-15,Santo André
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-06-18,São Bernardo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-06-03,Guarulhos
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-06-20,Arujá
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-07-26,São Paulo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-07-28,São Caetano
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-07-11,Santo André
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-07-24,São Bernardo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-07-03,Guarulhos
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-07-08,Arujá
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-07-26,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-07-24,São Caetano
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-07-21,Santo André
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-07-15,Guarulhos
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-07-14,Arujá
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-07-19,São Paulo
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-07-09,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-07-22,Santo André
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-07-09,São Bernardo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-07-27,Guarulhos
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-07-05,São Caetano
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-07-24,São Paulo
+301001,Caneca Santo Forte Portal Mágico,2.0,100.0,2024-07-26,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-07-12,Guarulhos
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-07-10,Arujá
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-07-17,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-07-07,São Caetano
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-07-25,Santo André
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-07-13,São Caetano
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-07-15,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-07-18,Arujá
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-07-15,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-07-25,São Caetano
+301001,Caneca Santo Forte Portal Mágico,3.0,150.0,2024-07-03,Guarulhos
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-07-05,São Caetano
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-07-26,São Paulo
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-07-16,São Caetano
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-07-21,Santo André
+301001,Caneca Santo Forte Portal Mágico,1.0,50.0,2024-07-22,Guarulhos
+301001,Caneca Santo Forte Portal Mágico,2.0,100.0,2024-07-24,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-07-04,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,2.0,100.0,2024-07-24,São Caetano
+301001,Caneca Santo Forte Portal Mágico,3.0,150.0,2024-07-19,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-07-18,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-07-26,São Caetano
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-07-27,São Paulo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-07-01,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-07-16,São Caetano
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-07-26,São Bernardo
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-07-04,Guarulhos
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-07-19,Arujá
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-07-03,São Paulo
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-08-19,São Caetano
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-08-20,São Bernardo
+301003,Camiseta Santo Forte Gato Felix,1.0,60.0,2024-08-21,Guarulhos
+301003,Camiseta Santo Forte Gato Felix,2.0,120.0,2024-08-10,Arujá
+301007,Caneca Santo Forte Gato Felix Coffee Time,1.0,50.0,2024-08-22,São Paulo
+301008,Caneca Santo Forte Tigres,3.0,150.0,2024-08-15,São Caetano
+301006,Camiseta Santo Forte Mulher com Coração Farpado,1.0,60.0,2024-08-28,São Caetano
+301002,Camiseta Santo Forte Gato Felix Baby Look,2.0,120.0,2024-08-26,São Caetano
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-08-13,Guarulhos
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-08-01,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-08-15,São Paulo
+301003,Camiseta Santo Forte Gato Felix,3.0,180.0,2024-08-01,Santo André
+301006,Camiseta Santo Forte Mulher com Coração Farpado,2.0,120.0,2024-08-15,São Caetano
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-08-27,Guarulhos
+301006,Camiseta Santo Forte Mulher com Coração Farpado,3.0,180.0,2024-08-14,Arujá
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-08-27,São Paulo
+301004,Camiseta Santo Forte KKK,1.0,60.0,2024-08-04,São Paulo
+301004,Camiseta Santo Forte KKK,3.0,180.0,2024-08-03,Santo André
+301001,Caneca Santo Forte Portal Mágico,1.0,50.0,2024-08-24,São Bernardo
+301007,Caneca Santo Forte Gato Felix Coffee Time,3.0,150.0,2024-08-17,São Paulo
+301008,Caneca Santo Forte Tigres,1.0,50.0,2024-08-23,São Paulo
+301008,Caneca Santo Forte Tigres,2.0,100.0,2024-08-26,Santo André
+301002,Camiseta Santo Forte Gato Felix Baby Look,1.0,60.0,2024-08-12,São Bernardo
+301004,Camiseta Santo Forte KKK,2.0,120.0,2024-08-27,Guarulhos
+301002,Camiseta Santo Forte Gato Felix Baby Look,3.0,180.0,2024-08-12,São Paulo
